@@ -9,3 +9,9 @@ To install, simply clone the repository
 ```bash
 git clone https://github.com/JonnyPake/cert-checker
 ```
+
+And install the pip dependencies included in the requirements.txt file:
+
+```bash
+pip install -r requirements.txt
+```
