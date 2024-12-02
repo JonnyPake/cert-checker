@@ -15,3 +15,11 @@ And install the pip dependencies included in the requirements.txt file:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Execution
+
+Simply run the Python script with your specified domain and it will return the information:
+
+```bash
+python tlschecker.py <DOMAIN>
+```
